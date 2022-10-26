@@ -1,4 +1,4 @@
-name: SEU Auto Leave
+name: SEU Auto Leave 1
 on:
   schedule:
     - cron: '05 22 * * *'
